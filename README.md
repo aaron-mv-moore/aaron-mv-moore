@@ -3,7 +3,7 @@
 #### I'm Aaron and I'm a data science student at Codeup Academy - San Antonio!
 
 - 🌱 I’m currently learning a data science stack that focuses on SQL & Python.
-- 👯 I’m looking to collaborate on projects related to data engineering. 
+- 👯 I’m looking to collaborate on projects related to data science. 
 - 🤔 I’m looking for help with becoming a better data scientist.
 - 💬 Ask me about my terrible taste in anime!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-mv-moore/) **|** [Twitter](https://twitter.com/aaronmvmoore)
