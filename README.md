@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate on projects related to data science. 
 - 🤔 I’m looking for help with becoming a better data scientist.
 - 💬 Ask me about my terrible taste in anime!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-mv-moore/) **|** [Twitter](https://twitter.com/aaronmvmoore)
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-mv-moore/)
 
 <!--
 **aaron-mv-moore/aaron-mv-moore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
