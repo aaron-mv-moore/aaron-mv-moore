@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-#### I'm Aaron and I'm a data science student at Codeup Academy - San Antonio!
+#### I'm Aaron and I'm a data analyst at one of the largest healthcare providers in Indiana!
 
-- 🌱 I’m currently learning a data science stack that focuses on SQL & Python.
-- 👯 I’m looking to collaborate on projects related to data science. 
-- 🤔 I’m looking for help with becoming a better data scientist.
-- 💬 Ask me about my terrible taste in anime!
+- 🌱 My background is in data science and social work and I'm back in the market for employment!
+- 💬 Ask me about my terrible taste in anime ~
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaron-mv-moore/)
 
 <!--
